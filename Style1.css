@@ -1,0 +1,36 @@
+.jumbotron{
+    background-color:#00E7FF;
+    color:#0014FF;
+}
+.table{
+    color:rgb(219, 63, 219);
+}
+#jumbo{
+     color:#009EFF; 
+     background-image:url(https://peakbusinessvaluation.com/wp-content/uploads/Valuation-multiples-for-fast-food-restaurant.jpg); 
+     background-repeat:no-repeat;
+     background-size:cover;
+}
+#menu{
+    background-color:red;
+}
+#jumbo1{
+    background-image:url(https://www.dhd10.org/wp-content/uploads/2018/12/Restaurant2.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+h1{
+    padding:100px;
+    font-size:80px;
+}
+footer{
+    margin-top:100px;
+}
+#jumbo3{
+    background-image:url(https://downloads.ctfassets.net/8n6yne00qg20/4FQTZcncPoftsiJesNPLka/bc963eb51fa387631f4a0d3dff70fccd/F_B-185-Edit.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+body{
+    background-color:#A5F1E9;
+}
